@@ -1,0 +1,29 @@
+_repo: The-Demands-of-Romethe-Roman-Catholic-Church_37104
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37104-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schoffen, Elizabeth
+    alias: Lucretia, Sister
+    birthdate: 1861
+    gutenberg_agent_id: '38651'
+    url: http://www.gutenberg.org/2009/agents/38651
+description: ''
+gutenberg_issued: '2011-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37104'
+  lccn: '17010882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Monastic and religious life of women'
+- !lcsh 'Ex-nuns -- United States -- Biography'
+title: "The Demands of Rome\r\nHer Own Story of Thirty-One Years as a Sister of Charity\
+  \ in the Order of the Sisters of Charity of Providence of the Roman Catholic Church"
+url: http://www.gutenberg.org/ebooks/37104
